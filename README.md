@@ -24,3 +24,8 @@ Home Page: A landing page which includes brief introduction, navigation to other
 About Me: It includes information about personal background, skills and interests.
 Projects:  A portfolio showcasing completed projects with brief descriptions, technologies used, and links to live projects or GitHub repositories.
 Contact: A form allowing visitors to get in touch via email.
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+git clone https://github.com/tusharjaiswal28/portfolio-site.git
